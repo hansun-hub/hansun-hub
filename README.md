@@ -1,5 +1,4 @@
 ### 안녕하세요 성장하는 개발자 김한선입니다. 👋
-해커톤에서 1인분 해내는게 목표입니다.
 
 <!--
 **hansun-hub/hansun-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
