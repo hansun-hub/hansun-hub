@@ -1,9 +1,9 @@
 ### 안녕하세요 백엔 개발자 김한선입니다. 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansun-hub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansun-hub&layout=compact)](https://github.com/hansun-hub/github-readme-stats)
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hansun%20&fontSize=50)
+
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
