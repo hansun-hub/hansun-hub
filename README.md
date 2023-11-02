@@ -3,8 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansun-hub&layout=compact)](https://github.com/hansun-hub/github-readme-stats)
 <br/>
 
-<div align=center>:fire: skills</div>
-<br/>
+:fire: skills
+<br/><br/><br/>
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
