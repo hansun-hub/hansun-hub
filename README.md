@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansun-hub)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hansun%20&fontSize=50)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -13,7 +13,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hansun33})](https://solved.ac/{hansun33})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hansun33)](https://solved.ac/hansun33)
 
 <!--
 **hansun-hub/hansun-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
