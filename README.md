@@ -1,12 +1,9 @@
 ### 안녕하세요 성장하는 개발자 김한선입니다. 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansun-hub)](https://github.com/anuraghazra/github-readme-stats)
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+![spring](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
 https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 
