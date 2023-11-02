@@ -1,9 +1,9 @@
-### 안녕하세요 백엔드 개발자 김한선입니다. 👋
+### 안녕하세요 백엔드 개발자를 꿈꾸는 김한선입니다. 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansun-hub&layout=compact)](https://github.com/hansun-hub/github-readme-stats)
 <br/><br/>
 
-<div align=center>:fire: <h1>skills</h1></div></div>
+<div align=center>:fire: # skills</div></div>
 <br/><br/>
 
 
