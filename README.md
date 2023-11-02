@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansun-hub&layout=compact)](https://github.com/hansun-hub/github-readme-stats)
 <br/><br/>
 
-<div align=center>:fire: # skills</div></div>
+<div align=center>:fire: skills</div></div>
 <br/><br/>
 
 
