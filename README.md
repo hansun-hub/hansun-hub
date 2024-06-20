@@ -1,4 +1,4 @@
-### 안녕하세요 개발자를 꿈꾸는 김한선입니다. 👋
+### 안녕하세요 개발자 김한선입니다. 👋
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansun-hub&layout=compact)](https://github.com/hansun-hub/github-readme-stats)-->
 <br/><br/>
